@@ -13,3 +13,4 @@ dependencies:
   - xlrd  # .xls old office 2003
   - wordcloud
   - folium
+  - scipy
